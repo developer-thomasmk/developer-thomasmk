@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Thomas MK
+<h2><p align="center">Hi there 👋 I'm Thomas MK</p></h2>
 
 <!--
 **developer-thomasmk/developer-thomasmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
